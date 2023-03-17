@@ -1,0 +1,1 @@
+node test.mjs ||| in case that won't run then use =>   node --experimental-modules test.mjs
