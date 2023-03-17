@@ -1,0 +1,58 @@
+body {
+  background-image: url("/img/back4_fin.jpg");
+  background-size: cover;
+}
+
+/* Style the form element */
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    
+  }
+  
+  /* Style the label elements */
+  .label {
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 10px;
+    color: #d1ddde;
+    text-transform: uppercase;
+    background-color: black;
+  }
+  
+  /* Style the select element */
+  .select {
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 8px;
+    margin-bottom: 20px;
+    width: 200px;
+    background-color: rgb(240, 227, 234);
+  }
+  
+  /* Style the submit button */
+  .submit {
+    text-transform: uppercase;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Style the page title */
+  h1 {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  /* Style the image */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
